@@ -221,22 +221,25 @@ Ens sortirà aquest menú i li donarem a Deploy image
 
 Ens demanarà l’usuari i la contrasenya del fog
 
-![Selecció_1789](https://github.com/SergioBertomeu/UFO3NF7/assets/91250228/77849d05-3d3e-4d08-992f-eeb8adc936ce)
+![Selecció_1791](https://github.com/SergioBertomeu/UFO3NF7/assets/91250228/e6c078bd-253d-4c7f-8a20-3da6fde8bc9b)
+
 
 
 I seleccionarem la del Windows 10 (només apareix aquesta perquè vaig fer tot el Windows seguit
 
-![Selecció_1790](https://github.com/SergioBertomeu/UFO3NF7/assets/91250228/e5c1fc20-fd3b-48fb-a4f0-adf69023e5d6)
 
+![Selecció_1792](https://github.com/SergioBertomeu/UFO3NF7/assets/91250228/02925e98-192e-4eb2-8bfe-1be6a21a312f)
 
 
 
 Ens sortirà aquesta finestra com quan hem fet la imatge
 
+![Selecció_1793](https://github.com/SergioBertomeu/UFO3NF7/assets/91250228/dd3d186e-ef63-4b4e-a3d6-fb72dc767091)
 
 
 I es reiniciarà la màquina en acabar
 
+![Selecció_1794](https://github.com/SergioBertomeu/UFO3NF7/assets/91250228/1c8b8498-a819-487d-b86f-674f8c85fc89)
 
 
 
@@ -245,49 +248,57 @@ Aquí veiem les màquines que hem usat per crear la imatge i per restaurar-la
 
 
 
+![Selecció_1795](https://github.com/SergioBertomeu/UFO3NF7/assets/91250228/91f8d70b-5a83-419b-a1cc-d2c5f696fa9d)
 
 
 
 
 
 
-
-
-Instal·lar imatge Ubuntu
+##  Instal·lar imatge Ubuntu <a name="ref5"></a>
 
 
 Com he fet amb la màquina Windows, he creat una nova màquina sense sistema operatiu i le iniciat per lan
 
+![Selecció_1796](https://github.com/SergioBertomeu/UFO3NF7/assets/91250228/f18d6f3c-67d9-4b93-a87e-dd780b5e8211)
 
 
 
 Ens tornarà a sortir la finestra del fog funcionant
 
+![Selecció_1797](https://github.com/SergioBertomeu/UFO3NF7/assets/91250228/4df5c0fd-b94f-4565-a833-69f2da63be73)
 
 
 Ens sortirà aquest menú i li donarem a Deploy image
 
+![Selecció_1798](https://github.com/SergioBertomeu/UFO3NF7/assets/91250228/148a5f3b-adc2-42ea-9c24-97456f29c82b)
 
 
 Ens demanarà l’usuari i la contrasenya del fog
+
+![Selecció_1799](https://github.com/SergioBertomeu/UFO3NF7/assets/91250228/437230b7-89b1-459a-9089-3aaf0bfca50d)
 
 
 I seleccionarem la del Ubuntu
 
 
+![Selecció_1800](https://github.com/SergioBertomeu/UFO3NF7/assets/91250228/27659ffd-87b8-4b77-8109-442fbf57ec6a)
 
 
+![Selecció_1801](https://github.com/SergioBertomeu/UFO3NF7/assets/91250228/67ae1ea8-7765-4b0d-8848-4f4e543f0451)
 
 
 
 I es reiniciarà la màquina en acabar
 
+![Selecció_1802](https://github.com/SergioBertomeu/UFO3NF7/assets/91250228/761db7ba-dae2-46ca-996b-47db17bf50aa)
 
 
 
 Aquí veiem les màquines que hem usat per crear la imatge i per restaurar-la
 
 
+![Selecció_1803](https://github.com/SergioBertomeu/UFO3NF7/assets/91250228/aca7922d-b169-4d4b-a4ea-453ac42560a6)
 
 
 
@@ -301,70 +312,114 @@ Aquí veiem les màquines que hem usat per crear la imatge i per restaurar-la
 
 
 
-Llençar un paquet per a que s’instal·li als clients
+##  Llençar un paquet per a que s’instal·li als clients <a name="ref6"></a>
 
 Primer que res per al client Windows haurem d'instal·lar el client fog perquè ens funcioni
+
+![Selecció_1804](https://github.com/SergioBertomeu/UFO3NF7/assets/91250228/c4b9903b-d7cd-40e0-a5ca-8106b0ddc66a)
+
+![Selecció_1805](https://github.com/SergioBertomeu/UFO3NF7/assets/91250228/36acfd5e-03b6-40bc-a74d-abce26a8a9fa)
 
 
 
 Haurem de posar l’adreça IP que té el nostre servidor fog i continuarem
 
+![Selecció_1806](https://github.com/SergioBertomeu/UFO3NF7/assets/91250228/29d37ce1-e3c9-46cf-acf9-7187fc55e798)
+
+
+![Selecció_1807](https://github.com/SergioBertomeu/UFO3NF7/assets/91250228/8445c1c2-52ad-46a2-afa6-fdb1a13697dd)
+
 
 Un cop instal·lat comprovarem que el servei fog està activat
+
+![Selecció_1808](https://github.com/SergioBertomeu/UFO3NF7/assets/91250228/6dae4063-b032-4a6c-b94b-a56f63f88f68)
 
 
 Ara que tenim el client instal·lat anirem al servidor fog, anirem a Snapis, Create New Snapin, seleccionarem de tipus MSI i li posarem un paquet msi que ens hem baixat
 
+![Selecció_1809](https://github.com/SergioBertomeu/UFO3NF7/assets/91250228/68b7a487-4084-4c24-ac05-11ffc2c74c28)
+
 
 Anirem a Hosts i entrarem dins del Windows 10
+
+![Selecció_1810](https://github.com/SergioBertomeu/UFO3NF7/assets/91250228/9381cd9f-bf4a-4d7c-a106-993b07ca615a)
 
 
 
 Anirem dins de Snapins i afegirem el que acabem de crear
 
+![Selecció_1811](https://github.com/SergioBertomeu/UFO3NF7/assets/91250228/f7aae252-ec98-48df-9d11-3556abacfb56)
 
 
 Després anirem a tasques i Single Snapin
 
+![Selecció_1812](https://github.com/SergioBertomeu/UFO3NF7/assets/91250228/400f9c9b-bc8e-4eeb-92f1-5f24ac9208d6)
+
 
 Seleccionarem el snapin que acabem de crear i li donarem a Task
+
+![Selecció_1813](https://github.com/SergioBertomeu/UFO3NF7/assets/91250228/66fae795-b9f0-419b-b9b9-945c5b0e6b80)
 
 
 I es crearà la tasca per instal·lar aquest snapin
 
+![Selecció_1814](https://github.com/SergioBertomeu/UFO3NF7/assets/91250228/4a509e0c-c9ff-47f2-89aa-ed962f3efa7d)
+
 Anirem a tasques i esperarem
+
+![Selecció_1815](https://github.com/SergioBertomeu/UFO3NF7/assets/91250228/159d6430-9c2e-410b-82e7-a959de83b05b)
 
 
 Al cap d'uns intents al final va funcionar
 
+![Selecció_1816](https://github.com/SergioBertomeu/UFO3NF7/assets/91250228/99b4854e-23d4-4f91-9ba7-c81b49454af8)
+
 
 I al entrar al client podem veure que s’ha instal·lat el Mozilla
 
+![Selecció_1817](https://github.com/SergioBertomeu/UFO3NF7/assets/91250228/c8003e2b-e69b-4984-b6a3-31cdcfc57b2d)
 
 
 Per al client Ubuntu també haurem d'instal·lar el client fog perquè ens funcioni, primer haurem d'instal·lar l'aplicació mono per poder executar el .exe del client fog
 
+![Selecció_1818](https://github.com/SergioBertomeu/UFO3NF7/assets/91250228/d070ba46-8129-4bc1-b299-bdb4263f8abb)
 
+
+![Selecció_1819](https://github.com/SergioBertomeu/UFO3NF7/assets/91250228/f82501c8-975f-484b-9fa7-9cb460be390f)
+
+![Selecció_1820](https://github.com/SergioBertomeu/UFO3NF7/assets/91250228/ab6c7eb7-b2a4-47b2-940f-1c9dffa21d96)
 
 
 
 Un cop tenim el mono instal·lat amb un wget baixarem el client del fog del nostre servidor i executarem el client amb el mono
 
+![Selecció_1821](https://github.com/SergioBertomeu/UFO3NF7/assets/91250228/c1b17f82-4ee5-4fc8-b011-f9e2780433bf)
+
 
 Li posarem l’adreça IP del nostre servidor i ens preguntarà si volem iniciar el servei fog quan acabi la configuració
 
+![Selecció_1822](https://github.com/SergioBertomeu/UFO3NF7/assets/91250228/ba7b0667-6108-4f50-825b-136f26cc9ddb)
 
 Ens sortirà aquest error del certificat, però ell mateix instal·larà aquest certificat
 
+![Selecció_1823](https://github.com/SergioBertomeu/UFO3NF7/assets/91250228/5326ae45-af31-4394-8ebf-1802965a6e30)
+
+
+
 Un cop tenim el client preparat anirem al servidor i ens descarregarem el .deb que volem instal·lar, el posarem dins del directori on està l'apache perquè el puguem enviar al client
+
+![Selecció_1824](https://github.com/SergioBertomeu/UFO3NF7/assets/91250228/e6d19703-e102-4719-8207-338451d74c03)
 
 
 També crearem un script per a poder instal·lar el paquet al client, aquest script el que farà serà enviar el paquet .deb del servidor al client i instal·lar-lo
 
+![Selecció_1825](https://github.com/SergioBertomeu/UFO3NF7/assets/91250228/e9b6adf8-55f1-4fbe-88ac-5165d7a9653f)
 
 
 
 Anirem dins del host del Ubuntu
+
+![Selecció_1826](https://github.com/SergioBertomeu/UFO3NF7/assets/91250228/25d6ab43-df48-4b6d-b60a-7bffea9c98c9)
 
 
 Dins de snapins seleccionarem el snapin que hem creat l’afegirem al client
