@@ -208,11 +208,13 @@ Per instal·lar les imatges he creat unes màquines virtual noves sense cap sist
 
 
 Ens tornarà a sortir la finestra del fog funcionant
+
 ![Selecció_1786](https://github.com/SergioBertomeu/UFO3NF7/assets/91250228/82b86844-2692-4ae8-8cca-cb828619c271)
 
 
 
 Ens sortirà aquest menú i li donarem a Deploy image
+
 ![Selecció_1787](https://github.com/SergioBertomeu/UFO3NF7/assets/91250228/85f97b08-e4c5-4563-b8ef-6c194c0aeee1)
 
 
