@@ -415,23 +415,27 @@ També crearem un script per a poder instal·lar el paquet al client, aquest scr
 
 ![Selecció_1825](https://github.com/SergioBertomeu/UFO3NF7/assets/91250228/e9b6adf8-55f1-4fbe-88ac-5165d7a9653f)
 
+![Selecció_1826](https://github.com/SergioBertomeu/UFO3NF7/assets/91250228/25d6ab43-df48-4b6d-b60a-7bffea9c98c9)
 
 
 Anirem dins del host del Ubuntu
 
-![Selecció_1826](https://github.com/SergioBertomeu/UFO3NF7/assets/91250228/25d6ab43-df48-4b6d-b60a-7bffea9c98c9)
+![Selecció_1827](https://github.com/SergioBertomeu/UFO3NF7/assets/91250228/a3c6042f-fa15-474a-898e-3ddce18fd9f9)
 
 
 Dins de snapins seleccionarem el snapin que hem creat l’afegirem al client
 
+![Selecció_1828](https://github.com/SergioBertomeu/UFO3NF7/assets/91250228/7a22a2bb-aaab-43c8-9e31-8e8b2e363128)
 
 
 Anirem dins de les tasques del client, seleccionarem el snapin i iniciarem la tasca
 
+![Selecció_1829](https://github.com/SergioBertomeu/UFO3NF7/assets/91250228/d57dc6a4-4352-407f-871e-32e5ea9c5031)
 
 
 No em funcionava perquè el client tenia un nom diferent del nom de la màquina registrada al server fog i em donava un error, ha sigut posar-lo igual i funcionar!
 
+![Selecció_1830](https://github.com/SergioBertomeu/UFO3NF7/assets/91250228/863f868a-663c-4239-b084-f19889a3b1d8)
 
 
 
